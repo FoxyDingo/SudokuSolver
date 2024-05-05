@@ -1,4 +1,4 @@
-Created by Francisco Durão (https://github.com/FoxyDingo).
+Created by https://github.com/FoxyDingo
 
 su-solver is a program designed to solve sudoku puzzles of any size. 
 
